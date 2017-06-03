@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{296BA9E1-C970-46C7-A77F-2A1E490AB2D0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Form2.cs">
+    <Files>
+      <File FileName="GifImage.cs" Line="45" Column="8" />
+      <File FileName="Form2.Designer.cs" Line="39" Column="104" />
+      <File FileName="Form2.cs" Line="19" Column="16" />
+      <File FileName="Form2.resx" Line="126" Column="8" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Hallo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

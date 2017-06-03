@@ -1,0 +1,31 @@
+c:/users/leo/documents/visual studio 2015/Projects/Hallo/Hallo/obj/Debug/Hallo.Form1.resources
+c:/users/leo/documents/visual studio 2015/Projects/Hallo/Hallo/obj/Debug/Hallo.Form2.resources
+c:/users/leo/documents/visual studio 2015/Projects/Hallo/Hallo/obj/Debug/Hallo.Properties.Resources.resources
+c:/users/leo/documents/visual studio 2015/Projects/Hallo/Hallo/obj/Debug/Hallo.csproj.GenerateResource.Cache
+c:/users/leo/documents/visual studio 2015/Projects/Hallo/Hallo/bin/Debug/Hallo.exe.config
+c:/users/leo/documents/visual studio 2015/Projects/Hallo/Hallo/bin/Debug/Hallo.exe
+c:/users/leo/documents/visual studio 2015/Projects/Hallo/Hallo/bin/Debug/Hallo.pdb
+c:/users/leo/documents/visual studio 2015/Projects/Hallo/Hallo/obj/Debug/Hallo.exe
+c:/users/leo/documents/visual studio 2015/Projects/Hallo/Hallo/obj/Debug/Hallo.pdb
+C:/Users/Leo/Documents/Visual Studio 2015/Projects/Hallo/Hallo/obj/Debug/Hallo.csprojResolveAssemblyReference.cache
+/Users/Eric/Downloads/Hallo/Hallo/obj/Debug/Hallo.csprojResolveAssemblyReference.cache
+/Users/Eric/Downloads/Hallo/Hallo/obj/Debug/Hallo.Form1.resources
+/Users/Eric/Downloads/Hallo/Hallo/obj/Debug/Hallo.Form2.resources
+/Users/Eric/Downloads/Hallo/Hallo/obj/Debug/Hallo.Properties.Resources.resources
+/Users/Eric/Downloads/Hallo/Hallo/obj/Debug/Hallo.csproj.GenerateResource.Cache
+/Users/Eric/Downloads/Hallo/Hallo/obj/Debug/Hallo.csproj.CoreCompileInputs.cache
+/Users/Eric/Downloads/Hallo/Hallo/obj/Debug/Hallo.exe
+/Users/Eric/Downloads/Hallo/Hallo/obj/Debug/Hallo.pdb
+/Users/Eric/Downloads/Hallo/Hallo/bin/Debug/Hallo.exe.config
+/Users/Eric/Downloads/Hallo/Hallo/bin/Debug/Hallo.exe
+/Users/Eric/Downloads/Hallo/Hallo/bin/Debug/Hallo.pdb
+Y:\Hallo\Hallo\bin\Debug\Hallo.exe.config
+Y:\Hallo\Hallo\obj\Debug\Hallo.exe
+Y:\Hallo\Hallo\obj\Debug\Hallo.pdb
+Y:\Hallo\Hallo\obj\Debug\Hallo.Form1.resources
+Y:\Hallo\Hallo\obj\Debug\Hallo.Form2.resources
+Y:\Hallo\Hallo\obj\Debug\Hallo.Properties.Resources.resources
+Y:\Hallo\Hallo\obj\Debug\Hallo.csproj.GenerateResource.Cache
+Y:\Hallo\Hallo\bin\Debug\Hallo.exe
+Y:\Hallo\Hallo\bin\Debug\Hallo.pdb
+Y:\Hallo\Hallo\bin\Debug\JurassicExp.exe.config
