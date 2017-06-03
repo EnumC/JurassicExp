@@ -30,6 +30,7 @@ namespace JurassicExp
         {
             
         }
+        // This method adds the current executable to the startup directory of Windows OS.
         private void RegisterInStartup(bool isChecked)
         {
             RegistryKey registryKey = Registry.CurrentUser.OpenSubKey
