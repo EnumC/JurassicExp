@@ -25,11 +25,13 @@ namespace JurassicExp
         {
             Form2 frm = new Form2();
             frm.Show();
+            
         }
         private void Form1_Load(object sender, EventArgs e)
         {
             
         }
+        // This method adds the current executable to the startup directory of Windows OS.
         private void RegisterInStartup(bool isChecked)
         {
             RegistryKey registryKey = Registry.CurrentUser.OpenSubKey
@@ -44,5 +46,9 @@ namespace JurassicExp
             }
         }
 
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
