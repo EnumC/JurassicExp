@@ -27,3 +27,12 @@ Y:\JurassicGit\JurassicExp\JurassicExp\obj\Debug\JurassicExp.Form1.resources
 Y:\JurassicGit\JurassicExp\JurassicExp\obj\Debug\JurassicExp.Properties.Resources.resources
 Y:\JurassicGit\JurassicExp\JurassicExp\obj\Debug\JurassicExp.csproj.GenerateResource.Cache
 Y:\JurassicGit\JurassicExp\JurassicExp\obj\Debug\JurassicExp.Form2.resources
+C:\Users\eric\Desktop\JurassicExp\JurassicExp\JurassicExp\bin\Debug\JurassicExp.exe.config
+C:\Users\eric\Desktop\JurassicExp\JurassicExp\JurassicExp\obj\Debug\JurassicExp.csprojResolveAssemblyReference.cache
+C:\Users\eric\Desktop\JurassicExp\JurassicExp\JurassicExp\obj\Debug\JurassicExp.Form1.resources
+C:\Users\eric\Desktop\JurassicExp\JurassicExp\JurassicExp\obj\Debug\JurassicExp.Form2.resources
+C:\Users\eric\Desktop\JurassicExp\JurassicExp\JurassicExp\obj\Debug\JurassicExp.Properties.Resources.resources
+C:\Users\eric\Desktop\JurassicExp\JurassicExp\JurassicExp\obj\Debug\JurassicExp.csproj.GenerateResource.Cache
+C:\Users\eric\Desktop\JurassicExp\JurassicExp\JurassicExp\obj\Debug\JurassicExp.csproj.CoreCompileInputs.cache
+C:\Users\eric\Desktop\JurassicExp\JurassicExp\JurassicExp\obj\Debug\JurassicExp.exe
+C:\Users\eric\Desktop\JurassicExp\JurassicExp\JurassicExp\obj\Debug\JurassicExp.pdb
