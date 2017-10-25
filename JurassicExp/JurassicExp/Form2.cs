@@ -131,18 +131,18 @@ namespace JurassicExp
                 if (textBox.Text == key)
                 {
                     RegisterInStartup(false);
+                    Process.Start(System.IO.Path.Combine(Environment.GetEnvironmentVariable("windir"), "explorer.exe"));
                     MessageBox.Show("Auto Start Disabled!");
                     Application.Exit();
                 }
                 else
                 {
                     Application.UseWaitCursor = true;
-                    string text = "Nice try. Please Enter Correct Unlock Key!";
+                    string text = "Nice try. But that's not the correct key :(";
                     MessageBox.Show(text);
                 }
             }
         }
-
         protected override void OnFormClosing(FormClosingEventArgs e)
         {
             switch (e.CloseReason)
